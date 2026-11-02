@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets — ne jamais committer
+.env
+.env.*
+!.env.example
+
+# Éditeurs
+.idea/
+.vscode/
+*.swp
+*~
