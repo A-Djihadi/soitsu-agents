@@ -31,6 +31,9 @@ exemple de résultat.
 | [Gestionnaire de boîte mail](agents/inbox-manager/AGENT.md) | Productivité | Grand public |
 | [Veille quotidienne](agents/veille-quotidienne/AGENT.md) | Veille | Solo founder |
 | [Idée → plan d'action](agents/idee-en-plan/AGENT.md) | Organisation | Grand public |
+| [Relances de paiement](agents/relances-paiement/AGENT.md) | Comptabilité | Solo founder |
+| [Réponses clients](agents/reponses-clients/AGENT.md) | Support client | Grand public |
+| [Déclinaison de contenu](agents/declinaison-contenu/AGENT.md) | Contenu | Grand public |
 
 *Liste complète et à jour : [`agents/README.md`](agents/README.md).*
 
