@@ -34,6 +34,9 @@ exemple de résultat.
 | [Relances de paiement](agents/relances-paiement/AGENT.md) | Comptabilité | Solo founder |
 | [Réponses clients](agents/reponses-clients/AGENT.md) | Support client | Grand public |
 | [Déclinaison de contenu](agents/declinaison-contenu/AGENT.md) | Contenu | Grand public |
+| [Prospection personnalisée](agents/prospection-personnalisee/AGENT.md) | Prospection | Solo founder |
+| [Compte-rendu de réunion](agents/compte-rendu-reunion/AGENT.md) | Réunion | Grand public |
+| [Choix éclairé](agents/choix-eclaire/AGENT.md) | Décision | Grand public |
 
 *Liste complète et à jour : [`agents/README.md`](agents/README.md).*
 

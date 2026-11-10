@@ -8,6 +8,9 @@
 | [Relances de paiement](relances-paiement/AGENT.md) | Comptabilité | Solo founder | Débutant |
 | [Réponses clients](reponses-clients/AGENT.md) | Support client | Grand public | Débutant |
 | [Déclinaison de contenu](declinaison-contenu/AGENT.md) | Contenu | Grand public | Débutant |
+| [Prospection personnalisée](prospection-personnalisee/AGENT.md) | Prospection | Solo founder | Débutant |
+| [Compte-rendu de réunion](compte-rendu-reunion/AGENT.md) | Réunion | Grand public | Débutant |
+| [Choix éclairé](choix-eclaire/AGENT.md) | Décision | Grand public | Débutant |
 
 ## Ajouter un agent
 
