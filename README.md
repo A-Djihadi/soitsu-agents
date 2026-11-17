@@ -37,6 +37,9 @@ exemple de résultat.
 | [Prospection personnalisée](agents/prospection-personnalisee/AGENT.md) | Prospection | Solo founder |
 | [Compte-rendu de réunion](agents/compte-rendu-reunion/AGENT.md) | Réunion | Grand public |
 | [Choix éclairé](agents/choix-eclaire/AGENT.md) | Décision | Grand public |
+| [Apprendre vite](agents/apprendre-vite/AGENT.md) | Apprentissage | Grand public |
+| [Menus et courses](agents/menus-et-courses/AGENT.md) | Quotidien | Grand public |
+| [Lecture de contrat](agents/lecture-de-contrat/AGENT.md) | Administratif | Grand public |
 
 *Liste complète et à jour : [`agents/README.md`](agents/README.md).*
 

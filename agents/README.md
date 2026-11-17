@@ -11,6 +11,9 @@
 | [Prospection personnalisée](prospection-personnalisee/AGENT.md) | Prospection | Solo founder | Débutant |
 | [Compte-rendu de réunion](compte-rendu-reunion/AGENT.md) | Réunion | Grand public | Débutant |
 | [Choix éclairé](choix-eclaire/AGENT.md) | Décision | Grand public | Débutant |
+| [Apprendre vite](apprendre-vite/AGENT.md) | Apprentissage | Grand public | Débutant |
+| [Menus et courses](menus-et-courses/AGENT.md) | Quotidien | Grand public | Débutant |
+| [Lecture de contrat](lecture-de-contrat/AGENT.md) | Administratif | Grand public | Débutant |
 
 ## Ajouter un agent
 
