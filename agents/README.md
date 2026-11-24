@@ -14,6 +14,9 @@
 | [Apprendre vite](apprendre-vite/AGENT.md) | Apprentissage | Grand public | Débutant |
 | [Menus et courses](menus-et-courses/AGENT.md) | Quotidien | Grand public | Débutant |
 | [Lecture de contrat](lecture-de-contrat/AGENT.md) | Administratif | Grand public | Débutant |
+| [Préparer un entretien](preparer-entretien/AGENT.md) | Carrière | Grand public | Débutant |
+| [Analyse d'avis clients](analyse-avis-clients/AGENT.md) | Analyse | Solo founder | Débutant |
+| [Budget du mois](budget-du-mois/AGENT.md) | Finances perso | Grand public | Débutant |
 
 ## Ajouter un agent
 

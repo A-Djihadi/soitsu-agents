@@ -40,6 +40,9 @@ exemple de résultat.
 | [Apprendre vite](agents/apprendre-vite/AGENT.md) | Apprentissage | Grand public |
 | [Menus et courses](agents/menus-et-courses/AGENT.md) | Quotidien | Grand public |
 | [Lecture de contrat](agents/lecture-de-contrat/AGENT.md) | Administratif | Grand public |
+| [Préparer un entretien](agents/preparer-entretien/AGENT.md) | Carrière | Grand public |
+| [Analyse d'avis clients](agents/analyse-avis-clients/AGENT.md) | Analyse | Solo founder |
+| [Budget du mois](agents/budget-du-mois/AGENT.md) | Finances perso | Grand public |
 
 *Liste complète et à jour : [`agents/README.md`](agents/README.md).*
 
